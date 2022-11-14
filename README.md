@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Derek</h1>
-<h3 align="center">An eager full-stack developer</h3>
-
 - 🔭 I’m currently working on **a social media application**
 
 - 👨‍💻 All of my projects are available at [https://github.com/derekhongg](https://github.com/derekhongg)
