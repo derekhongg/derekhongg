@@ -1,5 +1,3 @@
-- 🔭 I’m currently working on **a social media application**
-
 - 👨‍💻 All of my projects are available at [https://github.com/derekhongg](https://github.com/derekhongg)
 
 - 💬 Ask me about **React, Basketball, and Fitness**
