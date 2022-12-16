@@ -1,4 +1,4 @@
-- 👨‍💻 All of my projects are available at [https://github.com/derekhongg](https://github.com/derekhongg)
+- 👨‍💻 All of my projects are available here at [https://github.com/derekhongg](https://github.com/derekhongg)
 
 - 💬 Ask me about **React, Basketball, and Fitness**
 
